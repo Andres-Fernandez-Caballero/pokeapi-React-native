@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "pokeapi",
-    "slug": "pokeapi",
+    "name": "fuber",
+    "slug": "fuber",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
